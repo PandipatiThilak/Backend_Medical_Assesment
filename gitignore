@@ -1,0 +1,14 @@
+node_modules
+logs
+.env
+.log
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+.swp
+.swo
+dist
+build
+coverage
+uploads
