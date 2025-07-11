@@ -1,0 +1,16 @@
+{
+  "name": "offerdmedicals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ../server.js"
+  },
+  "author": "Thilak",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-list-endpoints": "^7.1.1",
+    "mongoose": "^8.16.3"
+  }
+}

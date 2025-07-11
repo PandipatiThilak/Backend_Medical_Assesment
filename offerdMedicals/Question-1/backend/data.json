@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "64c3f8015a1f9d01e83b101a",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "shortcode": "jsdocs1",
+    "validUntil": "2025-07-11T12:00:00Z",
+    "createdAt": "2025-07-11T10:30:00Z",
+    "visits": 0
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b101b",
+    "url": "https://www.mongodb.com/docs/manual/indexes/",
+    "shortcode": "mongoX2",
+    "validUntil": "2025-07-11T12:15:00Z",
+    "createdAt": "2025-07-11T10:35:00Z",
+    "visits": 3
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b101c",
+    "url": "https://react.dev/learn",
+    "shortcode": "reactL9",
+    "validUntil": "2025-07-11T12:20:00Z",
+    "createdAt": "2025-07-11T10:40:00Z",
+    "visits": 1
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b101d",
+    "url": "https://expressjs.com/en/guide/routing.html",
+    "shortcode": "expRt5",
+    "validUntil": "2025-07-11T12:25:00Z",
+    "createdAt": "2025-07-11T10:45:00Z",
+    "visits": 2
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b101e",
+    "url": "https://nodejs.org/en/docs",
+    "shortcode": "nodeX8",
+    "validUntil": "2025-07-11T12:30:00Z",
+    "createdAt": "2025-07-11T10:50:00Z",
+    "visits": 0
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b101f",
+    "url": "https://vercel.com/docs",
+    "shortcode": "verDoc4",
+    "validUntil": "2025-07-11T12:10:00Z",
+    "createdAt": "2025-07-11T10:32:00Z",
+    "visits": 5
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b1020",
+    "url": "https://www.npmjs.com/package/mongoose",
+    "shortcode": "mongoose7",
+    "validUntil": "2025-07-11T12:35:00Z",
+    "createdAt": "2025-07-11T10:55:00Z",
+    "visits": 4
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b1021",
+    "url": "https://github.com",
+    "shortcode": "ghubY1",
+    "validUntil": "2025-07-11T12:40:00Z",
+    "createdAt": "2025-07-11T11:00:00Z",
+    "visits": 9
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b1022",
+    "url": "https://www.postman.com/api-platform",
+    "shortcode": "postM5",
+    "validUntil": "2025-07-11T12:45:00Z",
+    "createdAt": "2025-07-11T11:05:00Z",
+    "visits": 6
+  },
+  {
+    "_id": "64c3f8015a1f9d01e83b1023",
+    "url": "https://www.freecodecamp.org/news/learn-node-js/",
+    "shortcode": "freeNjs",
+    "validUntil": "2025-07-11T12:50:00Z",
+    "createdAt": "2025-07-11T11:10:00Z",
+    "visits": 0
+  }
+]
